@@ -1,0 +1,12 @@
+[global]
+
+# If false, makes your Streamlit script wide mode by default. If true, makes your Streamlit script use the default (narrow) mode.
+wideMode = true
+
+# Controls whether uncaught app exceptions are displayed in the browser. By default, this is set to True and Streamlit displays app exceptions and associated tracebacks in the browser.
+showErrorDetails = true
+
+[logger]
+
+# Level of logging: 'error', 'warning', 'info', 'debug'.
+level = "info"
